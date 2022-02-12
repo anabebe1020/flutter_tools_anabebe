@@ -1,0 +1,3 @@
+MY_ORG="com.sample"
+PJ_PATH="$HOME/sampledir"
+TEMP_DESC="A new Flutter project."
